@@ -1,5 +1,3 @@
-console.log('javascript loaded haha')
-
 const weatherForm  = document.querySelector('form')
 const search = document.querySelector('input')
 const errorMsg = document.querySelector('#errorMsg')
